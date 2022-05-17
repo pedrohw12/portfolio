@@ -4,6 +4,7 @@ export const Container = styled.div`
   margin-top: 50px;
   padding-left: 100px;
   padding-right: 100px;
+  height: 75vh;
 `;
 
 export const SectionTextContainer = styled.div`
