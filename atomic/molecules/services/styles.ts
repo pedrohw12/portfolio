@@ -9,21 +9,21 @@ export const Container = styled.div`
 `;
 
 export const Services = styled.div`
-  display: grid;
   width: 100%;
-  grid-template-columns: repeat(auto-fill, minmax(350px,1fr));
-  grid-gap: 10px;
-`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`;
 
 export const Service = styled.div`
-  border-radius: 10px;
+  width: 100%;
   height: 300px;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 50px;
 
-  p { 
+  p {
     text-align: center;
   }
-`
+`;
