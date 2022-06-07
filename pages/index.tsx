@@ -5,6 +5,7 @@ import FirstSection from "../atomic/molecules/first-section";
 import Services from "../atomic/molecules/services";
 import Benefits from "../atomic/molecules/benefits";
 import MyWork from "../atomic/molecules/my-work";
+import Footer from "../atomic/molecules/footer";
 
 const Home: NextPage = () => {
   return (
@@ -13,7 +14,8 @@ const Home: NextPage = () => {
       <FirstSection />
       <Services />
       <Benefits />
-      <MyWork />
+      {/* <MyWork /> */}
+      <Footer />
     </Container>
   );
 };

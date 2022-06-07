@@ -5,23 +5,24 @@ const ServicesSection: React.FC = () => (
     <Services>
       <Service>
         <h2>Websites and mobile apps</h2>
-        <p>
-          Webbee is built to make your life easier. Variables, build tooling,
-          documentation, and reusable components.
+        <p style={{ opacity: 0.8 }}>
+          Desde landing pages e páginas de vendas, à websites completos e
+          aplicativos de celular para IOS e Android.
         </p>
       </Service>
       <Service>
         <h2>Analytics</h2>
-        <p>
-          Designed with the latest design trends in mind. Webbee feels modern,
-          minimal, and beautiful.
+        <p style={{ opacity: 0.8 }}>
+          Implemente as melhores ferramentas para entender o público que acessa
+          sua página web, aumente as conversões e crie ofertas baseadas em
+          segmentos de público.
         </p>
       </Service>
       <Service>
         <h2>Softwares</h2>
-        <p>
-          We have written extensive documentation for components and tools, so you
-          never have to reverse engineer anything.
+        <p style={{ opacity: 0.8 }}>
+          Softwares como dashboards administrativos, sistemas para lojas e
+          restaurantes, entre outras funcionalidades.
         </p>
       </Service>
     </Services>

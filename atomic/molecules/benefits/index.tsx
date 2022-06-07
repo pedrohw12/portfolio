@@ -8,9 +8,9 @@ const Benefits: React.FC = () => (
       para todos os tipos de negócios
     </Title>
     <h3>
-      Build a beautiful, modern website with flexible, fully customizable,
-      atomic Material-UI components. An experience you would expect from a design
-      system.
+      Colocar aqui um texto falando sobre as ferramentas que uso pra criar sites
+      e o poder delas, bem como uma pesquisa que aponte os pros e vantagens de
+      se ter um site
     </h3>
     <button>Quero um website agora</button>
   </Container>
